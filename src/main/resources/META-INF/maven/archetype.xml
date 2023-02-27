@@ -1,0 +1,9 @@
+<archetype>
+  <id>New_project_SearchFieldFactory_and_Object.java</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
